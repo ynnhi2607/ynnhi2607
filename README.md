@@ -1,23 +1,19 @@
-# 👩‍💻 Nhi | IT Student at University of Science (VNU-HCM)
+# Yen Nhi | IT Student at University of Science (VNU-HCM)
 
-Hi! I’m Nhi, a dedicated Information Technology student at the University of Science – Vietnam National University, Ho Chi Minh City. With a strong interest in software development, data structures, and community-centered projects, I’m constantly exploring how technology can contribute to positive social change.
+I'm Nhi, a student majoring in Information Technology at the University of Science – Vietnam National University, Ho Chi Minh City. I’m interested in software development, data structures, and how technology can be applied to solve real-world problems.
 
-## 💡 About Me
+## About Me
 
-- 🎓 Currently studying IT with a focus on problem-solving and hands-on development
-- 🧠 Enjoy working on C++ projects, algorithm design, and exploring data-driven applications
-- 🌱 Passionate about sustainability, education, and technology for good
-- 🎯 Committed to continuous learning and making meaningful contributions to every team I join
+- Currently learning and practicing programming
+- Focused on understanding algorithms and building small projects to improve technical skills
+- Interested in sustainability, education, and technology that supports community development
 
-## 🛠️ Projects & Interests
+## Projects
 
-- 🔹 **2048 Console Game (C++)** – First-year project with full functionality and save/resume features
-- 🔹 **Trie Autocomplete System (C++)** – Word suggestion, addition, deletion, and performance evaluation
-- 🔹 Volunteer and communication lead in multiple community service initiatives
+- 2048 Console Game (C++): Full-featured game with resume and leaderboard functions
+- Trie-based Autocomplete (C++): Supports word suggestion, search, addition, deletion, and performance analysis
+- Participated in volunteer activities and took communication lead in multiple community campaigns
 
-## 🌍 Let's Connect
+## Contact
 
-- 📫 [LinkedIn](https://linkedin.com/in/ynnhi2607)
-- 💻 [GitHub](https://github.com/ynnhi2607)
-
-Thank you for visiting my profile!
+- LinkedIn: [linkedin.com/in/ynnhi2607](https://linkedin.com/in/ynnhi2607)
